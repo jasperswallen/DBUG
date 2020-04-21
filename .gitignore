@@ -1,12 +1,12 @@
-// C Files
+# C Files
 *.o
 *.gch
 
-// IDE Files
+# IDE Files
 **/.vscode/
 
-// Build files
+# Build files
 build/
 
-// Compiled files
+# Compiled files
 **/factorial
